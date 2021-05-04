@@ -1,0 +1,72 @@
+{
+	"query_elec_building":{
+		"retcode":"0",
+		 "errmsg":"请选择相应的楼栋：",
+		  "aid":"0030000000002505",
+		 "account":"801538",
+		 "area":{
+			"area":"青岛校区",
+			"areaname":"青岛校区"
+		},
+		  "buildingtab":[
+
+			{
+				 "buildingid":"1574231830",
+				 "building":"T1"
+			},
+            {
+				 "buildingid":"1574231835",
+				 "building":"T3"
+			},
+			{
+				 "buildingid":"1503975832",
+				 "building":"S1一多书院"
+			},
+            {
+				 "buildingid":"1503975890",
+				 "building":"S2从文书院"
+			},
+
+
+			{
+				 "buildingid":"1503975967",
+				 "building":"S5凤凰居5号楼"
+			},
+
+
+
+			{
+				 "buildingid":"1503975980",
+				 "building":"S6凤凰居6号楼"
+			},
+             {
+				 "buildingid":"1503975980",
+				 "building":"凤凰居6号楼"
+			},
+			{
+				 "buildingid":"1503975988",
+				 "building":"S7凤凰居7号楼"
+			},
+            {
+				 "buildingid":"1503975995",
+				 "building":"S8凤凰居8号楼"
+			},
+            {
+				 "buildingid":"1503976004",
+				 "building":"S9凤凰居9号楼"
+			},
+            {
+				 "buildingid":"1503976004",
+				 "building":"凤凰居9号楼"
+			},
+			{
+				 "buildingid":"1503976037",
+				 "building":"S10凤凰居10号楼"
+			},
+            {
+				 "buildingid":"1599193777",
+				 "building":"S11"
+			}
+          ]
+	}
+}
